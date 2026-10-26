@@ -28,7 +28,7 @@ The function scales individual response times onto a standardized continuous spe
 
 ### ✨ Usage
 ```r
-source("https://raw.githubusercontent.com/brentfuller-mra/Rapid-Choice-Response/main/rcr_by_group.R")
+source("https://raw.githubusercontent.com/fuller-mra/Rapid-Choice-Response/main/rcr_by_group.R")
 
 final_score_matrix <- rcr_by_group(
   data       = survey_data, 
