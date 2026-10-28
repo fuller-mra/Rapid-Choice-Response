@@ -18,11 +18,11 @@ To safeguard data integrity, the user can specify a top/bottom percentile for us
 ## 🔢 Score Interpretation
 The function scales individual response times onto a standardized continuous spectrum from **-1.00** to **+1.00**:
 
-* **+0.50 to +1.00** — **Strong, fast, intuitive association.** The attribute is automatically linked to the brand.
-* **+0.20 to +0.49** — **Moderate association.** The connection is present but may lack top-of-mind dominance.
-* **-0.19 to +0.19** — **Weak or uncertain association.** The market does not strongly link or reject this attribute.
-* **-0.20 to -0.49** — **Moderate rejection.** The market actively leans toward dissociating the brand from the attribute.
-* **-0.50 to -1.00** — **Strong, fast, intuitive rejection.** The market automatically distances the brand from the attribute.
+* **+0.50 to +1.00** — **Strong, fast, automatic association.** 
+* **+0.20 to +0.49** — **Moderate association.** 
+* **-0.19 to +0.19** — **Weak or uncertain/neutral association.** 
+* **-0.20 to -0.49** — **Moderate rejection.** 
+* **-0.50 to -1.00** — **Strong, fast, automatic rejection.** 
 
 ---
 
